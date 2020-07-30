@@ -1,1 +1,1 @@
-[![profile banner image](https://github.com/godfreyduke/godfreyduke/raw/master/banner.png)](http://godfreyduke.com)
+[![profile banner image](https://github.com/godfreyduke/godfreyduke/raw/master/assets/banner.png)](http://godfreyduke.com)
